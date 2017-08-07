@@ -9,7 +9,8 @@ index.md
 **bold**
 __italic__
 
-**emacs table** 
+**emacs table**
+
 key | action | description
----+---+---
+---|---|---
 M-x | execute command | aha
