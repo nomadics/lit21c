@@ -12,5 +12,5 @@ __italic__
 **emacs table**
 
 key | action | description
----|---|---
+:---|:---|:---
 M-x | execute command | aha
